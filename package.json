@@ -1,0 +1,8 @@
+{
+  "name": "shouldIPrime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://genu@github.com/genu/shouldIPrime.git",
+  "author": "Istoc, Eugen (ei2074) <ei2074@att.com>",
+  "license": "MIT"
+}
